@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My Unity Assets</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin-top:50px;">
+    <h1>Welcome to My Unity Assets</h1>
+    <p>This page showcases my Unity Asset Store packages.</p>
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:youremail@gmail.com">youremail@gmail.com</a></p>
+</body>
+</html>
